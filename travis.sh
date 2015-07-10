@@ -7,7 +7,8 @@ echo dir_root: $dir_root
 }
 
 set_env(){
-chmod u+x script/*.sh
+source $dir_root/cfg/config.cfg 
+chmod u+x $dir_script/*.sh
 }
 
 run(){
