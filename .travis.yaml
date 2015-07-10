@@ -1,0 +1,4 @@
+
+language: c
+before_script: chmod u+x travis.sh
+script: ./travis.sh
