@@ -12,7 +12,7 @@ chmod u+x $dir_script/*.sh
 }
 
 run(){
-$dir_script/run.sh
+commander $dir_script/run.sh
 }
 
 steps(){
