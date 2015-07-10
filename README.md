@@ -4,12 +4,19 @@ securitytube tuts
  
  links (find the sources)
  -----
+ 
+scrap
+-----
+- scrap: SimpleDemo.c
+- https://github.com/solekiller/Programming/blob/master/c%2FsimpleDemo.c
+
+
 search
 ---
 - https://www.google.co.il/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=SimpleDemo.c
 
 found
-----
+-----
 - http://stackoverflow.com/questions/11211239/prevent-segmentation-fault-in-buffer-overflow-demonstration-in-ubuntu-1
 
 tuts
