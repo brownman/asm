@@ -1,3 +1,7 @@
+
+[![Build Status](https://travis-ci.org/brownman/asm.svg?branch=master)](https://travis-ci.org/brownman/asm)
+
+
 # asm
 securitytube tuts
  
