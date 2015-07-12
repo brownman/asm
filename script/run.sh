@@ -7,3 +7,4 @@ file=$dir_bin/SimpleDemo
  commander "$cmd"
  ls -l $file
  bash -c $file
+ 
